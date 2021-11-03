@@ -1,0 +1,1 @@
+yarn -D add @babel/eslint-parser eslint eslint-config-prettier eslint-plugin-vue prettier sass vite-plugin-eslint
