@@ -2,6 +2,10 @@
 
 We recommend to look at the [documentation](https://v3.nuxtjs.org).
 
+## stablitz
+
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/claranceliberi/nuxt-tiptap)
+
 ## Setup
 
 Make sure to install the dependencies
