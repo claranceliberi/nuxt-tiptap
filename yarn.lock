@@ -717,7 +717,7 @@
   resolved "https://registry.yarnpkg.com/@tiptap/extension-text/-/extension-text-2.0.0-beta.13.tgz#da0af8d9a3f149d20076e15d88c6af21fb6d940f"
   integrity sha512-0EtAwuRldCAoFaL/iXgkRepEeOd55rPg5N4FQUN1xTwZT7PDofukP0DG/2jff/Uj17x4uTaJAa9qlFWuNnDvjw==
 
-"@tiptap/starter-kit@^2.0.0-beta.132":
+"@tiptap/starter-kit@2.0.0-beta.132":
   version "2.0.0-beta.132"
   resolved "https://registry.yarnpkg.com/@tiptap/starter-kit/-/starter-kit-2.0.0-beta.132.tgz#7f6b3e5b7e99bab769dd5ce6d5f02a97af471d57"
   integrity sha512-LQxYMpFdRW5/PLcbRzw0PhwVLk7hm7n/NMYZd9W76W3rLmAaTQ/9CfxkgFjV0yfLxtgVDkg6OCtpZbpbbQZOfA==
@@ -742,7 +742,7 @@
     "@tiptap/extension-strike" "^2.0.0-beta.23"
     "@tiptap/extension-text" "^2.0.0-beta.13"
 
-"@tiptap/vue-3@^2.0.0-beta.74":
+"@tiptap/vue-3@2.0.0-beta.74":
   version "2.0.0-beta.74"
   resolved "https://registry.yarnpkg.com/@tiptap/vue-3/-/vue-3-2.0.0-beta.74.tgz#1f15d1652a4ebcc65fa0eee6dc31bf4e6a1bad44"
   integrity sha512-npp0FXQ5ibB6LxLs7h5VIa0NOUig5lrINnhwgj0izvqoXErAdssYsn/uo8DHxvb6kKHm/btRlnpYKssw31M8MA==
