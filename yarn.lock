@@ -489,9 +489,9 @@
   integrity sha512-a5Sab1C4/icpTZVzZc5Ghpz88yQtGOyNqYXcZgOssB2uuAr+wF/MvN6bgtW32q7HHrvBki+BsZ0OuNv6EV3K9g==
 
 "@popperjs/core@^2.9.0":
-  version "2.10.2"
-  resolved "https://registry.yarnpkg.com/@popperjs/core/-/core-2.10.2.tgz#0798c03351f0dea1a5a4cabddf26a55a7cbee590"
-  integrity sha512-IXf3XA7+XyN7CP9gGh/XB0UxVMlvARGEgGXLubFICsUMGz6Q+DU+i4gGlpOxTjKvXjkJDJC8YdqdKkDj9qZHEQ==
+  version "2.11.7"
+  resolved "https://registry.yarnpkg.com/@popperjs/core/-/core-2.11.7.tgz#ccab5c8f7dc557a52ca3288c10075c9ccd37fff7"
+  integrity sha512-Cr4OjIkipTtcXKjAsm8agyleBuDHvxzeBoa1v543lbv1YaIwQjESsVcmjiWiPEbC1FIeHOG/Op9kdCmAmiS3Kw==
 
 "@rollup/plugin-alias@^3.1.8":
   version "3.1.8"
@@ -606,14 +606,12 @@
   resolved "https://registry.yarnpkg.com/@tiptap/extension-bold/-/extension-bold-2.0.0-beta.21.tgz#50eea83e3bc7f85f6eeb90145927189041ade9d7"
   integrity sha512-GRsImvcUJ4vspvoZvugO7Y9akigjeHFpHti1sGJGULPsv4oX5vMMxys4yaI3/qA+Tm8qyK+14ju6Jb7YKwvdBA==
 
-"@tiptap/extension-bubble-menu@^2.0.0-beta.44":
-  version "2.0.0-beta.44"
-  resolved "https://registry.yarnpkg.com/@tiptap/extension-bubble-menu/-/extension-bubble-menu-2.0.0-beta.44.tgz#2a2b42b59c6906cba1ce54bdbbb153324e45ee16"
-  integrity sha512-kpU38X2FwW6n2LCQ9RY5wyFpJayuA7uGjvIS8IDKPuWjHSNMaS32T5ybjBBkxCace8z8w6lXa8U7IwZkk7tAcA==
+"@tiptap/extension-bubble-menu@^2.0.1":
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/@tiptap/extension-bubble-menu/-/extension-bubble-menu-2.0.1.tgz#8be479ff588a22c5b5d59a2042906997d90e272d"
+  integrity sha512-ZA8T7+yjlHzEjBeOlWAqz/9XvBb/rJ7/PiYjM57UXuT/ZgPMPL7KXI/KtS7vaRCnmKaGL6EJ1tBcZhjU24vNzA==
   dependencies:
-    prosemirror-state "^1.3.4"
-    prosemirror-view "^1.20.3"
-    tippy.js "^6.3.2"
+    tippy.js "^6.3.7"
 
 "@tiptap/extension-bullet-list@^2.0.0-beta.20":
   version "2.0.0-beta.20"
@@ -645,14 +643,12 @@
     "@types/prosemirror-dropcursor" "^1.0.3"
     prosemirror-dropcursor "^1.3.5"
 
-"@tiptap/extension-floating-menu@^2.0.0-beta.38":
-  version "2.0.0-beta.38"
-  resolved "https://registry.yarnpkg.com/@tiptap/extension-floating-menu/-/extension-floating-menu-2.0.0-beta.38.tgz#cbfe13fc5c397da1345889761ab4ba34680bad0a"
-  integrity sha512-FbAF9brNMKxLPdvQf7e4O73OAYXwgtyc8dPhxVCj53n4h1oYLykB9tsvGit2/KWcMHeUSKjnUuTVARflA6wr+Q==
+"@tiptap/extension-floating-menu@^2.0.1":
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/@tiptap/extension-floating-menu/-/extension-floating-menu-2.0.1.tgz#a60c5c6ec6ab92fe2560eea036eafbb5e9807ef7"
+  integrity sha512-gOf7FyromNyQpdaU/MWV99KMu6vypN+IlK8ViCBPvcM7w+e5eTh39wY/u5OquM7LsXd8KXLC2neq1XzQsAVmzw==
   dependencies:
-    prosemirror-state "^1.3.4"
-    prosemirror-view "^1.20.3"
-    tippy.js "^6.3.2"
+    tippy.js "^6.3.7"
 
 "@tiptap/extension-gapcursor@^2.0.0-beta.30":
   version "2.0.0-beta.30"
@@ -743,14 +739,12 @@
     "@tiptap/extension-text" "^2.0.0-beta.13"
 
 "@tiptap/vue-3@^2.0.0-beta.74":
-  version "2.0.0-beta.74"
-  resolved "https://registry.yarnpkg.com/@tiptap/vue-3/-/vue-3-2.0.0-beta.74.tgz#1f15d1652a4ebcc65fa0eee6dc31bf4e6a1bad44"
-  integrity sha512-npp0FXQ5ibB6LxLs7h5VIa0NOUig5lrINnhwgj0izvqoXErAdssYsn/uo8DHxvb6kKHm/btRlnpYKssw31M8MA==
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/@tiptap/vue-3/-/vue-3-2.0.1.tgz#23985cf451ef1792949b597a934192cd3cda4020"
+  integrity sha512-4szBIsZZvnnRv6G7MoQ4nFIYwAvcOSbj+FsR/H666VK+sU0zwaD3opqN/5c2kYMeeCmmU/UuMbnQ9slQEnETjA==
   dependencies:
-    "@tiptap/extension-bubble-menu" "^2.0.0-beta.44"
-    "@tiptap/extension-floating-menu" "^2.0.0-beta.38"
-    prosemirror-state "^1.3.4"
-    prosemirror-view "^1.20.3"
+    "@tiptap/extension-bubble-menu" "^2.0.1"
+    "@tiptap/extension-floating-menu" "^2.0.1"
 
 "@trysound/sax@0.2.0":
   version "0.2.0"
@@ -5290,10 +5284,10 @@ timsort@^0.3.0:
   resolved "https://registry.yarnpkg.com/timsort/-/timsort-0.3.0.tgz#405411a8e7e6339fe64db9a234de11dc31e02bd4"
   integrity sha1-QFQRqOfmM5/mTbmiNN4R3DHgK9Q=
 
-tippy.js@^6.3.2:
-  version "6.3.3"
-  resolved "https://registry.yarnpkg.com/tippy.js/-/tippy.js-6.3.3.tgz#04810e79fc217acacc4bd4acb5acf428d7c33974"
-  integrity sha512-Y3bLm4p33a8TJ49idtxfe6YYxcrmGKkOosry5clshy+wue622nhOxpf+KDfOQmif8etqsoIYFfVyVyXKQDqWVw==
+tippy.js@^6.3.7:
+  version "6.3.7"
+  resolved "https://registry.yarnpkg.com/tippy.js/-/tippy.js-6.3.7.tgz#8ccfb651d642010ed9a32ff29b0e9e19c5b8c61c"
+  integrity sha512-E1d3oP2emgJ9dRQZdf3Kkn0qJgI6ZLpyS5z6ZkY1DF3kaQaBsGZsndEpHwx+eC+tYM41HaSNvNtLx8tU57FzTQ==
   dependencies:
     "@popperjs/core" "^2.9.0"
 
